@@ -1,3 +1,3 @@
 # emnist_dataset
 
-Exploring CNN networks on EMNIST dataset both for English and cyrilic
+Using CNN networks in EMNIST dataset both for English and cyrilic
